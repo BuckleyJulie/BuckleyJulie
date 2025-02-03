@@ -33,7 +33,7 @@ I'm a final-year student pursuing a BSc (Hons) in Cybercrime and IT Security, wi
 ---
 
 💬 **Fun Facts:**
-- I've reinvented myself multiple times only beginning with computing and programming at 28!
+- I've reinvented myself multiple times only beginning with computing and programming at 27!
 - I love tackling cybersecurity challenges and learning about new tech!
 
 Thanks for visiting my profile! 😄
